@@ -1,10 +1,5 @@
 # Free Burn Rate & Runway Calculator for Excel
 
-
-<p align="center">
-  <img src="https://github.com/EaseProConsulting/Startup_Cash_Burn_Rate_Runaway_Calculator/blob/main/Screenshot%202026-09-10%20180536_2.png?raw=1" alt="EasePro Burn Rate and Runway Calculator Dashboard" width="100%">
-</p>
-
 Understand how quickly your business is using cash — and how many months of runway you may have left — with the **EasePro Burn Rate & Runway Calculator**.
 
 This is a **simple, high-level DIY Excel calculator** created for founders and business owners who may not have a finance background but want a clear view of their **burn rate, cash runway and projected cash position**.
